@@ -1,0 +1,5 @@
+Los datos que necesita el programa es un procedimiento, un arreglo bidimensional.
+El proceso q se realiza es hacer que el procedimiento deba recorrer la
+estructura bidimensional y que nomas se seleccionen los valores que sean pares
+En el proceso intervienen ciclos for ya que nomas pide que se presenten valores 
+pares. 

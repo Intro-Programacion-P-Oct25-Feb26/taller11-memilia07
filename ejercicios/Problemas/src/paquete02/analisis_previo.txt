@@ -1,0 +1,4 @@
+Qué datos necesita el programa.
+Qué proceso principal se realiza sobre esos datos. 
+Qué decisiones, condiciones, estructuras intervienen en el proceso. 
+Qué resultado se espera obtener.
