@@ -1,9 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
-
-
+Me resulto dificil comprender la parte de concatenar porque confunde mucho al
+momento de formar el mensaje, el error que cometi no fue ponerle el condicional
+if y lo corregi agregandolo al programa, considero importante lo del ciclo for,
+aprendi a analizar mejor el problema para futuros proyectos en la clase
+.
