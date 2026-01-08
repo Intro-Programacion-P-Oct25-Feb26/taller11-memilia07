@@ -1,4 +1,5 @@
-Qué datos necesita el programa.
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso. 
-Qué resultado se espera obtener.
+Pide 3 arreglos ,Ingresar el nombre de las vivienvas por teclado, luego una
+matriz que almacene los consumos electricos,se utilizara procesos y funciones y 
+condicionales for, esperamos obtener el resultado de construir un reporte en 
+formato de texto, utilizando una sola cadena y presentar en pantalla el consumo
+anual correspondiente a cada vivienda.
