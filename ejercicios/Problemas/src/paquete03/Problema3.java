@@ -72,7 +72,7 @@ public class Problema3 {
 
         area = (base * altura / 2);
 
-        System.out.printf("El area del triangulo es %s\n:", area);
+        System.out.printf("El area del  triangulo es %s\n:", area);
     }
 
     public static void obtenerAreaRectangulo() {
