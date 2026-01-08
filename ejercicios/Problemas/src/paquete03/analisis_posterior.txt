@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+La parte que me resulto mas dificil de comprender fue la del ciclo if y saber 
+como son los procedimientos, el error que cometi fue hacerlos funciones en ves
+de procedimientos y le corregi agregando el void, la parque que considero 
+importante es la de calcular las areas, aprendi a entender mejor la logica de 
+los procedimientos y funciones.

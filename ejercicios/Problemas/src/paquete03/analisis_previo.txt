@@ -1,4 +1,5 @@
-Qué datos necesita el programa.
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso. 
-Qué resultado se espera obtener.
+Los Datos que necesita son la opcion del usuario para las saber las medidas de
+las figuras, el programa lee la opcion del usuario y segun la opcion calcula,
+utilizamos condicionales,la entrada de datos, los metodos, el resultado que se
+espera es mostrar en pantalla cada area de la figura que selecciono el usuario
+en los datos.

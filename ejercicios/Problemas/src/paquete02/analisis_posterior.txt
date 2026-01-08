@@ -2,5 +2,5 @@ La parte mas dificil fue el gastomensual y el anual porque se necesita mucha
 logica para enternderlo, cometi el error de equivocarme en unas letras en los
 ciclos for los cuales eran "i" y "j", los corregi modificando la letra, la que
 considero mas importante es la de el gasto anual y mensual, aprendi a razonar 
-mejor porque me cuesta un poco entender a los problemas y entender un poco mas
+mejor porque me cuesta un poco entender a los problemas y entender  un poco mas
 las logicas .
