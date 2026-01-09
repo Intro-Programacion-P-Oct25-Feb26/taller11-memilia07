@@ -1,4 +1,5 @@
-Qué datos necesita el programa.
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso. 
-Qué resultado se espera obtener.
+Necesita datos por teclado, un arreglo, una funcion y un procedimiento, se
+realiza un arreglo donde se almacenen las ciudades del ecuador que seran ingres-
+adas por el usuario y tambien el limite de ciudades, utiliza 3 ciclos for, condi-
+cional if y el resultado que espera es que se muestre en pantalla el nombre
+de las ciudaddes ingresada y las ciudades que tengan 4 o 5 caracteres.

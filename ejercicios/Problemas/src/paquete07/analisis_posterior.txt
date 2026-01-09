@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Resulto dificil comprender la concatenacion y tambien que habia que mostrar un
+ciclo repetitivo en la funcion principal, el error fue no saber que debia estar
+un ciclo repetitivo en la funcion principal y lo corregui agregandolo, condiero 
+importante lo del usuario que ingrese por teclado y los ciclos, aprendi a manejar
+mejor los arreglos y presentarlos de manera correcta.
