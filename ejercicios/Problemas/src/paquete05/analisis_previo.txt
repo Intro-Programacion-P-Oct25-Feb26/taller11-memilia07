@@ -1,4 +1,4 @@
-Qué datos necesita el programa.
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso. 
-Qué resultado se espera obtener.
+Necesita dos arreglos bidimensionales, no se piden datos por teclado,
+el proceso que se realiza es una suma, de los elementos de las dos matrices,
+utilizamos estructuras repetitivas como el For y de resultado se espera que una
+en pantalla muestre matriz con los valores sumados.

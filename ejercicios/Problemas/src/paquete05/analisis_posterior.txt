@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Lo más difícil fue entender cómo recorrer correctamente un arreglo bidimensional
+, el error que cometi fue concatenar mal el mensaje que se iba a presentar y lo
+corregi agrgandole "%2\n" y ahi ya me salio, la que considero mas importante es
+el metodo de las sumas porque de ahi sale todo el resultado, aprendi a que un 
+método puede recibir matrices como parámetros y devolver otra matriz.

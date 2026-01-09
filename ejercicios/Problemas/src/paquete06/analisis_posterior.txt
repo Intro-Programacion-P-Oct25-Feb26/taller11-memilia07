@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+La parte más difícil de comprender fue cómo aplicar correctamente la fórmula
+de la desviación estándar porque no sabia cual era su formula y investigue, 
+cometí el error de dividir dentro del bucle al calcular la media, lo corregí 
+moviendo la división fuera del ciclo, la que considero importante es la que
+calcula la desviacion, aprendi que cada operacion necesita organizacion.
