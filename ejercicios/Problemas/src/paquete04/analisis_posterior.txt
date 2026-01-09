@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+La parte que se me complico fue entender cómo dividir el programa en
+procedimientos, el error que cometi al principio fue no poner variables y lo 
+corregi agregandolas, la solucion importante es la de lso calculos porque de eso
+depende todo el programa de su resultado, aprendi a estar atenta con pequeños
+detalles.

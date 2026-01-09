@@ -1,4 +1,5 @@
-Qué datos necesita el programa.
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso. 
-Qué resultado se espera obtener.
+Los datos que necesita son los datos personales, el tipo de calculo, los proce
+sos que haran son calculos financieros que serian multiplicaciones, usamos
+condicional if, un switch, procedimientos, y pedir datos por teclado, el 
+resultado que se espera es el reporte muy bien concatenado en una sola linea con
+el nombre y cedula del cliente.
