@@ -19,7 +19,7 @@ public class Problema6 {
         entrada.useLocale(Locale.US);
 
         int[] informacion = {1, 2, 3, 10, 20, 30, 100, 200, 300};
-        double media = calcularMedia(informacion);
+        double media =  calcularMedia(informacion);
         double desviacion = calcularDesviacion(informacion, media);
         
         System.out.printf("%.2f\n%.2f\n",media,desviacion);
